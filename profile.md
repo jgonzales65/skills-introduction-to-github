@@ -1,1 +1,1 @@
-Welcome to my first Git-Hub Learning Journey
+Welcome to my GitHub profile!
